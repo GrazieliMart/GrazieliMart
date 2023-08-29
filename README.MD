@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/grazieli-freitas-martins-61329b258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grazieli freitas martins" height="30" width="40" /></a>
-<a href="https://fb.com/grazieli martins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grazieli martins" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100068996117172&mibextid=2JQ9oc/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="grazieli martins" height="30" width="40" /></a>
 <a href="https://www.instagram.com/grazi.mart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grazi.mart" height="30" width="40" /></a>
 </p>
 
