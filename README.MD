@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, sou a Grazi</h1>
-<h3 align="center">Programadora, Designer e Desenhista</h3>
+<h1 align="center">Salut 👋</h1>
+<h3 align="center">Full Stack Developer | Designer I Developer based on C#, PHP, SQL, HTML5, API, JavaScript, Flutter/Dart, Java</h3>
 
 - Minha empresa [https://marketinggdigital.com/](https://marketinggdigital.com/)
 
